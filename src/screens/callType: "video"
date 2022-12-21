@@ -1,0 +1,15 @@
+callType: "video"
+isOverflow: false
+languageName: "American Sign Language (ASL)"
+overflowLanguageFromId: 0
+overflowLanguageToId: 0
+overflowTokenResult: null
+result: "Room Fetched Successully"
+roomResourceDetails: {accountSid: "AC8ea41a259cfd04afc082ee8422efb040", dateCreated: "2020-07-30T15:00:03Z", dateUpdated: "2020-07-30T15:00:03Z", duration: null, enableTurn: true, …}
+roomType: "group"
+sid: "RMf518d0f8a56eb7708edfabc9393f1392"
+tokenResult: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImN0eSI6InR3aWxpby1mcGE7dj0xIn0.eyJpc3MiOiJTSzNjNTNlYWVhYjgwZjBiOTMzMjY3ZGI5ZmJlYTNlNzI3IiwiZXhwIjoxNTk2MTI0ODgxLCJqdGkiOiJTSzNjNTNlYWVhYjgwZjBiOTMzMjY3ZGI5ZmJlYTNlNzI3LTE1OTYxMjEyODEiLCJzdWIiOiJBQzhlYTQxYTI1OWNmZDA0YWZjMDgyZWU4NDIyZWZiMDQwIiwiZ3JhbnRzIjp7ImlkZW50aXR5Ijoic3BvdGxpZ2h0cmV2ZW51ZSIsInZpZGVvIjp7InJvb20iOiJBbWVyaWNhbiBTaWduIExhbmd1YWdlIChBU0wpLTAifX19.nM1o7NborDyCBPuvhV_C1TGW6jI40XJdZAGqUCakrX0"
+uniqueName: "American Sign Language (ASL)-0"
+url: "https://video.twilio.com/v1/Rooms/RMf518d0f8a56eb7708edfabc9393f1392"
+workOrderID: "0"
+__proto__: Object
